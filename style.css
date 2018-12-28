@@ -195,6 +195,9 @@ hr {
 .footer-copyright {
     padding: 10px;
     background: #2d2d2d;
+    color: #456990;
+    font-size: 1.2rem;
+    font-weight: 200;
 }
 /* NUTRITION */
 
